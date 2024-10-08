@@ -9,4 +9,5 @@
 	excludesFile = ~/.gitignore
 [init]
 	defaultBranch = main
-
+[includeIf "gitdir:~/Documents/Developer/Alten/"]
+        path = /Users/shannorr/Documents/Developer/Alten/.gitconfig-alten
