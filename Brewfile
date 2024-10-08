@@ -15,6 +15,7 @@ cask "yaak"
 # 'brew install'
 brew "FelixKratz/formulae/borders"
 brew "bat"
+brew "asdf"
 brew "chezmoi"
 brew "fzf"
 brew "git"
