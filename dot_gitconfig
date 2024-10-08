@@ -1,0 +1,12 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = theo pessegue
+	email = theo.pessegue2@gmail.com
+[pull]
+	rebase = true
+[core]
+	excludesFile = ~/.gitignore
+[init]
+	defaultBranch = main
+
