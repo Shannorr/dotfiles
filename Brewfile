@@ -11,6 +11,7 @@ cask "nikitabobko/tap/aerospace"
 cask "raycast"
 cask "tableplus"
 cask "yaak"
+cask "obsidian"
 
 # 'brew install'
 brew "FelixKratz/formulae/borders"
